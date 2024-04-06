@@ -11,6 +11,8 @@
     <title>Product</title>
     <link rel="stylesheet" href="Bootsrap5/css/bootstrap.min.css">
     <link rel="stylesheet" href="Bootsrap5/css/js/bootstrap.bundle.min.js">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet">
+
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
     <style>
